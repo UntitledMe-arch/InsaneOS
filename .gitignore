@@ -1,1 +1,5 @@
 build/
+
+# Compiled binaries inside CFS root
+cfs_root/bin/ish
+cfs_root/drivers/*.drv
